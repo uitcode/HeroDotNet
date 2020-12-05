@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroSolution.WebApp", "HeroSolution.WebApp\HeroSolution.WebApp.csproj", "{20149D92-868F-46DC-89F2-58642BAE8CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20149D92-868F-46DC-89F2-58642BAE8CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20149D92-868F-46DC-89F2-58642BAE8CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20149D92-868F-46DC-89F2-58642BAE8CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20149D92-868F-46DC-89F2-58642BAE8CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D6EC38-2B58-4125-81E2-8B1ED5B8CDE0}
+	EndGlobalSection
+EndGlobal
